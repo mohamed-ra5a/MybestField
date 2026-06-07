@@ -36,42 +36,42 @@ transition: 0.3s;
       color: #9ee6df;
 }
 .hero {
-        background: linear-gradient(rgba(8, 107, 132, 0.85), rgba(15, 76, 92, 0.85)), url("images/image.jpg");
-background-size: cover;
-     background-position: center;
-color: white;
-         text-align: center;
-  padding: 110px 20px;
+        background : linear-gradient(rgba(8, 107, 132, 0.85), rgba(15, 76, 92, 0.85)), url("MybestField/images/images.jpg") ;
+background-size : cover ;
+     background-position : center ;
+color : white ;
+         text-align : center ;
+  padding : 110px 20px ;
 }
 .hero-content {
-        max-width: 800px;
-  margin: auto;
+        max-width : 800px ;
+  margin : auto ;
 }
 .hero h1 {
-  font-size: 3rem;
-     margin-bottom: 18px;
+  font-size : 3rem ;
+     margin-bottom : 18px ;
 }
 .hero p {
-  font-size: 1.1rem;
-  margin-bottom: 28px;
+  font-size : 1.1rem;
+    margin-bottom : 28px ;
 }
 .btn {
-       display: inline-block;
-background: #7fe7dc;
-       color: #0f3c5c;
+       display : inline-block ;
+background : #7fe7dc ;
+       color : #0f3c5c ;
   padding: 12px 26px;
-       text-decoration: none;
-  border-radius: 8px;
-      font-weight: bold;
-    transition: 0.4s;
+       text-decoration : none ;
+  border-radius : 8px ;
+      font-weight : bold ;
+    transition : 0.5s ;
 }
 .btn:hover {
-     background: #a5f0e8;
+     background : #a5f0e8 ;
 }
 .footer {
-       background: #0a4958;
-  color: white;
-       text-align: center;
-       padding: 19px 20px;
-          margin-top: 25px;
+       background : #0a4958 ;
+  color : white ;
+       text-align : center ;
+       padding : 19px 20px ;
+          margin-top : 25px ;
 }
