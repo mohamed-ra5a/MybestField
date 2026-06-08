@@ -68,6 +68,38 @@ background : #7fe7dc ;
 .btn:hover {
      background : #a5f0e8 ;
 }
+
+
+  .section {
+  padding: 70px 8%;
+}
+.section h2 {
+       text-align: center;
+font-size: 2.2rem;
+     color: #0f4c5c;
+     margin-bottom: 35px;
+}
+.cards {
+  display: grid;
+grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+             gap: 22px;
+} 
+.card {
+  background: white;
+    padding: 25px;
+border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(16, 75, 93, 0.13);
+         border-top: 5px solid #0f5c5c;
+     transition: transform 0.3s ease;
+}
+.card:hover {
+  transform: translateY(-6px);
+}
+.card h3 {
+      color: #0f4c5c;
+ margin-bottom: 12px;
+ font-size: 1.4rem;
+}
 .footer {
        background : #0a4958 ;
   color : white ;
