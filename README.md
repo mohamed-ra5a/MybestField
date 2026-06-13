@@ -1,42 +1,53 @@
-# MyBestField.
+# MyBestField
 
-
-## An Image of the Project
+## Project Preview
 
 <img width="947" height="457" alt="field web" src="https://github.com/user-attachments/assets/2952861e-8199-4db5-8c8f-e73d33148ae5" />
 
+## Project Description
 
+MyBestField is an educational website that helps students explore different scientific fields in a simple and organized way.
 
----
+The website introduces several important disciplines, including:
 
-## Description of the Project
+- Physics
+- Chemistry
+- Biology
+- Mathematics
+- Computer Science
+- Earth Science
 
-My best field is an educational website designed to help students explore different scientific fields in a simple and organized way. The website introduces important areas of science such as Physics, Chemistry, Biology, Mathematics, Computer Science, and Earth Science. The project also provides useful learning resources including recommended websites and YouTube channels for each subject. In addition, the website explains different learning levels so students can understand how to progress from beginner to advanced knowledge. The website was built with a clean and responsive design to make it easy to use on both desktop and mobile devices. 
-The website also provides useful learning resources and explains different learning levels to help students improve their understanding. It was built with a clean and responsive design for both desktop and mobile devices.
----
+It also provides learning resources such as recommended websites and YouTube channels for each subject. In addition, the website explains different learning levels to help students progress from beginner to advanced knowledge.
 
-## Instructions on How to Try the Project
+The project features a clean and responsive design, making it easy to use on both desktop and mobile devices.
 
-1. Download or clone the project files.
-2. Make sure these files are in the same folder:
-   - index.html
-   - resources.html
-   - style.css
-   - images/
+## How to Use
+
+### Option 1: Run Locally
+
+1. Download or clone the repository.
+2. Ensure the following files are in the same project folder:
+   - `index.html`
+   - `resources.html`
+   - `style.css`
+   - `images/`
 3. Open `index.html` in any web browser.
-4. Use the navigation bar to explore the website pages.
-5. ## the second way is opening the playableURL:"https://mohamed-ra5a.github.io/MybestField/"
+4. Use the navigation menu to explore the website.
 
----
+### Option 2: Visit the Live Website
 
-## Technologies / Tools Used
+Open the project directly in your browser:
+
+https://mohamed-ra5a.github.io/MybestField/
+
+## Technologies Used
 
 - HTML5
 - CSS3
 - CSS Grid
-- Media Queries for responsive design
-- Google Chrome for testing
+- Media Queries
+- Google Chrome (Testing)
 
 ## Inspiration
 
-The inspiration behind this project was to help students better understand scientific fields and find useful learning resources in one organized place.
+This project was created to help students discover scientific fields and access useful learning resources through a single organized platform.
