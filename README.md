@@ -4,50 +4,31 @@
 
 <img width="947" height="457" alt="field web" src="https://github.com/user-attachments/assets/2952861e-8199-4db5-8c8f-e73d33148ae5" />
 
-## Project Description
+## About the Project
 
-MyBestField is an educational website that helps students explore different scientific fields in a simple and organized way.
+I created this website to help students learn about scientific fields easily without having to look through many sources.
 
-The website introduces several important disciplines, including:
+The website has information on subjects, like Physics, Chemistry, Biology, Mathematics, Computer Science and Earth Science. Each section has an introduction and study resources to help students keep learning.
 
-- Physics
-- Chemistry
-- Biology
-- Mathematics
-- Computer Science
-- Earth Science
+I also made a page that lists websites and YouTube channels in one spot. There's another section that explains learning stages so students can see how their knowledge grows over time.
 
-It also provides learning resources such as recommended websites and YouTube channels for each subject. In addition, the website explains different learning levels to help students progress from beginner to advanced knowledge.
+I built the project using HTML and CSS. It provides information in a way that works on both desktop and mobile devices.
 
-The project features a clean and responsive design, making it easy to use on both desktop and mobile devices.
-
-## How to Use
-
-### Option 1: Run Locally
+## How to Run
 
 1. Download or clone the repository.
-2. Ensure the following files are in the same project folder:
-   - `index.html`
-   - `resources.html`
-   - `style.css`
-   - `images/`
-3. Open `index.html` in any web browser.
-4. Use the navigation menu to explore the website.
+2. Make sure all project files are in the same folder.
+3. Open `index.html` in your browser.
 
-### Option 2: Visit the Live Website
-
-Open the project directly in your browser:
+## Live Demo
 
 https://mohamed-ra5a.github.io/MybestField/
 
-## Technologies Used
+## Technologies
 
-- HTML5
-- CSS3
-- CSS Grid
-- Media Queries
-- Google Chrome (Testing)
+- HTML
+- CSS
 
-## Inspiration
+## Why I Made This
 
-This project was created to help students discover scientific fields and access useful learning resources through a single organized platform.
+I wanted to create a small educational website that introduces scientific fields and collects learning resources in one place, making them easier for students to access.
